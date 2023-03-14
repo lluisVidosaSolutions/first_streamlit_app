@@ -2,10 +2,10 @@ import streamlit as st
 
 st.title('My Parents new Healthy dinner')
 
-st.header('Breakfast menu')
-
-st.text('Omega 3')
-st.text('Kale, spinach and smoothy')
-st.text('Hard boiled free range')
+streamlit.header('Breakfast Favourites')
+streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞Avocado Toast')
 
 
